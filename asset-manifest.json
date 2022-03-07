@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/movie_site/static/css/main.4c8a4db6.css",
-    "main.js": "/movie_site/static/js/main.6609ccf0.js",
+    "main.css": "/movie_site/static/css/main.b0161be1.css",
+    "main.js": "/movie_site/static/js/main.17232543.js",
     "static/media/popular_bg.jpg": "/movie_site/static/media/popular_bg.5a9d717f110a7e681ac7.jpg",
     "static/media/main_logo.svg": "/movie_site/static/media/main_logo.f5b3693d1cc9b8fe43e4cc6e2fc32cd9.svg",
     "static/media/rating_star.svg": "/movie_site/static/media/rating_star.7b5e725de845174f03bd0aa2c093bc4a.svg",
+    "static/media/login_delete.svg": "/movie_site/static/media/login_delete.b3ecfff21fe131f7e3263c63299dd1da.svg",
+    "static/media/login_password.svg": "/movie_site/static/media/login_password.1da31c232681185b8e0976610b10fedf.svg",
     "index.html": "/movie_site/index.html",
     "static/media/heart-solid.svg": "/movie_site/static/media/heart-solid.16edc25ca27ead8820a409a6e3d07238.svg",
-    "main.4c8a4db6.css.map": "/movie_site/static/css/main.4c8a4db6.css.map",
-    "main.6609ccf0.js.map": "/movie_site/static/js/main.6609ccf0.js.map"
+    "static/media/login_id.svg": "/movie_site/static/media/login_id.7d748bbf3d7cec5d9dbff896eee6d8b8.svg",
+    "main.b0161be1.css.map": "/movie_site/static/css/main.b0161be1.css.map",
+    "main.17232543.js.map": "/movie_site/static/js/main.17232543.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c8a4db6.css",
-    "static/js/main.6609ccf0.js"
+    "static/css/main.b0161be1.css",
+    "static/js/main.17232543.js"
   ]
 }
