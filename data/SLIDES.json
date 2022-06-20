@@ -1,0 +1,44 @@
+{
+  "SLIDES": [
+    {
+      "id": 0,
+      "title": "배뜨뭰 : 어둠속의 그",
+      "desc": "Batman : shadow man",
+      "imgSrc": "https://user-images.githubusercontent.com/93138130/174529543-455b33c6-95c5-4a00-b5a5-67ec156fd491.jpg",
+      "rating": 9,
+      "mode": "dark"
+    },
+    {
+      "id": 1,
+      "title": "더 스파이더 쑈",
+      "desc": "The Spider Show",
+      "imgSrc": "https://user-images.githubusercontent.com/93138130/174529551-d07eb5be-468a-4033-a2e3-bf9384d46652.jpg",
+      "rating": 8.7,
+      "mode": "dark"
+    },
+    {
+      "id": 2,
+      "title": "제가 보이시나요?",
+      "desc": "watching me?",
+      "imgSrc": "https://user-images.githubusercontent.com/93138130/174529555-a7795fbd-9d71-4e18-9722-614eba6616b0.jpg",
+      "rating": 8,
+      "mode": "dark"
+    },
+    {
+      "id": 3,
+      "title": "언타이틀",
+      "desc": "Un Title",
+      "imgSrc": "https://user-images.githubusercontent.com/93138130/174529557-a8e21481-dc32-46d2-ae5f-199fd211ef04.jpg",
+      "rating": 9.2,
+      "mode": "dark"
+    },
+    {
+      "id": 4,
+      "title": "누가 진짜일까?",
+      "desc": "Who Is True ?",
+      "imgSrc": "https://user-images.githubusercontent.com/93138130/174529560-4d178914-0d63-410a-9f24-f51fbc75593e.jpg",
+      "rating": 7.8,
+      "mode": "dark"
+    }
+  ]
+}
